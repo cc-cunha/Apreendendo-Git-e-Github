@@ -1,5 +1,5 @@
 # Apreendendo Git e Github
- Primeiro Repositorio Cursos guanabara
+ Primeiro Repositorio Cursos Git e Github guanabara.
  
 
-Pagina teste.
+Pagina teste, para ocurso de repositório local e remoto.
